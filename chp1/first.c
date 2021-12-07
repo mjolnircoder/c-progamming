@@ -2,7 +2,7 @@
 // #include<conio.h>
 
 int main() {
-    printf("Hi, nbnbBravo is there");
+    printf("Hi, Bravo is there");
     return 0;
 }
 
